@@ -12,6 +12,9 @@
 
 تحتاج أيضًا إلى مفتاح OpenAI API. إذا لم يكن لديك، فإحصل على واحدة <a href="https://platform.openai.com/account/api-keys" target="_blank">من هنا</a>
 
+> في حال تريد الوصول الى المشروع بشكل مباشر يمكنك الذهاب من هنا
+> <a href="https://github.com/Web3Arabs/whisperbot.git" target="_blank">https://github.com/Web3Arabs/whisperbot.git</a>
+
 قم بإستدعاء مشروع Nextjs من خلال إضافة هذا في terminal:
 
 ```bash
